@@ -5,8 +5,11 @@
 -  文字化正则表达式https://regex101.com/
 -  查看CSS属性浏览器支持程度https://caniuse.com/
 -  直观查看异步http://latentflip.com/loupe/
+-  在线演示 https://jsfiddle.net/
 ### 教程
 -  了解HTTP-推荐HTTP下午茶http://www.kancloud.cn/kancloud/tealeaf-http/43832
 -  Scheme入门教程 https://deathking.github.io/yast-cn/index.html
 -  让猴子都能懂得git教程 http://backlogtool.com/git-guide/cn/
+-  七天学会Node.js https://nqdeng.github.io/7-days-nodejs/#1.1
+-  
 
