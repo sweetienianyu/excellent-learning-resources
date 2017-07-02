@@ -8,4 +8,5 @@
 ### 教程
 -  了解HTTP-推荐HTTP下午茶http://www.kancloud.cn/kancloud/tealeaf-http/43832
 -  Scheme入门教程 https://deathking.github.io/yast-cn/index.html
+-  让猴子都能懂得git教程 http://backlogtool.com/git-guide/cn/
 
